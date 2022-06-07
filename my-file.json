@@ -8,3 +8,7 @@
   "this": "something-else-com.c4nvfx0f2vjo.eu-east-3.rds.amazonaws.com",
   "and": "b-4.com-msk-avavx.k298x4.c2.kafka.eu-east-1.amazonaws.com:9092,b-1.com-msk-babax.c298i4.c4.kafka.eu-west-2.amazonaws.com:9092,c-1.com-msk-dfdrfw.k428i1.c2.kafka.eu-central-2.amazonaws.com:9092"
 }
+
+boiler.something.qa1.com
+boiler.something.qa2.com
+boiler.something.qa3.com
