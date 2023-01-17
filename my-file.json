@@ -14,3 +14,6 @@ boiler.something.qa2.com
 boiler.something.qa3.com
 
 https://web-pp.something.com/version.txt
+
+https://dd.com/filters=value%2522%253A%2522hybrid.something.com%2522%257D%255D
+https://dd.com/?filters=value%2522%253A%2522hybrid-pp.something.com%2522%257D%255D
